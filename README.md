@@ -1,0 +1,2 @@
+# Checkbin
+Scrip termux 
