@@ -33,10 +33,11 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
 // Instalar python3 (solo en caso de no tenerlo instalado )
  - pkg install python3 --upgrade
 
-// Clonar este repositorio: - git clone:https://github.com/Mariofernandez503/Checkerdebins
+// Clonar este repositorio: - git clone:https://github.com/Dayvela/Checkbin
 
 // Ingresar al proyecto
- - cd checkerdebins
+ - cd checkbin
+
 
 // Instalar las dependencias necesarias:
  - pip install -r requirements.txt
